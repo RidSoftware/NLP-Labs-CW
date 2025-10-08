@@ -1,3 +1,5 @@
 cw1/wikitext-filtered-10k
 cw1/wikitext-filtered-full
 cw1/*.zip
+
+.idea/
